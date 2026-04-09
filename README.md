@@ -18,7 +18,8 @@ This project is a modern, interactive wall-style calendar built using Next.js an
 
 ## 🖥️ Output (UI Preview)
 
-![Calendar UI](https://via.placeholder.com/800x400.png?text=Calendar+Preview)
+![Calendar UI]
+<img width="495" height="921" alt="Screenshot 2026-04-09 211836" src="https://github.com/user-attachments/assets/c4d473e9-0523-45ba-88f3-7c96948e698c" />
 
 > 🔹 Replace this image with your actual screenshot later
 
