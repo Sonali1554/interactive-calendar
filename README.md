@@ -20,6 +20,7 @@ This project is a modern, interactive wall-style calendar built using Next.js an
 
 ![Calendar UI]
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/83b0ff72-4a4c-427b-a589-6cbcdd1cf2df" />
+Project Overview  Video Link -  https://youtube.com/shorts/8BWYvusNOlc?feature=share
 
 
 
